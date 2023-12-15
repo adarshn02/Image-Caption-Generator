@@ -1,7 +1,5 @@
 # Image Caption Generator
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Overview
 
 This project is an Image Caption Generator implemented in Python, utilizing OpenCV, Tensorflow, and Natural Language Toolkit (NLTK). The goal is to generate descriptive captions for images, providing a richer understanding of the visual content.
