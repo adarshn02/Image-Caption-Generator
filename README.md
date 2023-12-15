@@ -32,8 +32,12 @@ This project is an Image Caption Generator implemented in Python, utilizing Open
     ```bash
     python image_caption_generator.py
     ```
+    
+2.  First register yourself on the site and then provide images to generate captions.
 
-2. Follow the instructions to input images for caption generation.
+3.  Images provided can be used to generate captions or custom images can be used to generate images.
+
+
 
 ## Dependencies
 
